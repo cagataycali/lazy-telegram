@@ -1,0 +1,27 @@
+{
+  "name": "lazy.telegram",
+  "version": "1.0.0",
+  "description": "Have your own open-source ai chatbot powered lazy.ai.",
+  "main": "index.js",
+  "author": "Çağatay Çalı",
+  "license": "ISC",
+  "engines": {
+    "node": "6.x"
+  },
+  "dependencies": {
+    "lazy.ai": "^1.0.5",
+    "node-telegram-bot-api": "^0.27.0",
+    "underscore": "^1.8.3"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cagataycali/lazy-telegram.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cagataycali/lazy-telegram/issues"
+  },
+  "homepage": "https://github.com/cagataycali/lazy-telegram#readme"
+}
