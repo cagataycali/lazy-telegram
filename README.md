@@ -113,8 +113,7 @@ POST /learn
 POST /forget
 ```
 
-
-### Add response in category (category, response)
+### Add response in category (category, response)
 
 ```
 POST /response
