@@ -13,7 +13,6 @@ If you want host on your own, go ahead do this!
 
 [Create telegram bot](https://core.telegram.org/bots#6-botfather)
 
-
 [Telegram Bot Deploy](https://github.com/cagataycali/lazy-telegram):
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/cagataycali/lazy-telegram)
 
@@ -24,7 +23,7 @@ If you want host on your own, go ahead do this!
 
 Lazy already integrated in nodejs and ruby.
 
-## Node
+### Node
 
 ```bash
 # Or npm install --save lazy.ai
@@ -54,7 +53,7 @@ start();
 ```
 
 
-## Ruby
+### Ruby
 
 ```bash
 # Or Gemfile --> gem 'lazy.ai', '~> 0.0.1'
