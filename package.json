@@ -1,6 +1,6 @@
 {
   "name": "lazy.telegram",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Have your own open-source ai chatbot powered lazy.ai.",
   "main": "index.js",
   "author": "Çağatay Çalı",
