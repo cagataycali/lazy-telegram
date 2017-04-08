@@ -10,7 +10,8 @@
 
 You can try in telegram already: Lets chat with @LazyAIBot, my Turkish friends already teached somethings like as greetings.
 If you want host on your own, go ahead do this!
-[Create telegram bot.](https://core.telegram.org/bots#6-botfather)
+
+[Create telegram bot](https://core.telegram.org/bots#6-botfather)
 
 
 [Telegram Bot Deploy](https://github.com/cagataycali/lazy-telegram):
@@ -23,9 +24,7 @@ If you want host on your own, go ahead do this!
 
 Lazy already integrated in nodejs and ruby.
 
-## NodeJS
-
-> Native *
+## Node
 
 ```bash
 # Or npm install --save lazy.ai
