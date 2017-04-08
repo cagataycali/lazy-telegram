@@ -19,7 +19,9 @@ If you want host on your own, go ahead do this!
 [Express HTTP Endpoint Deploy](https://github.com/cagataycali/lazy-telegram):
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/cagataycali/lazy-express)
 
-# Programmatic Usages
+## Programmatic Usages
+
+Lazy already integrated in nodejs and ruby.
 
 ## NodeJS
 
@@ -188,6 +190,7 @@ GET /responses/:category
 
 </details>
 
+<br>
 
 ## Contributors
 
