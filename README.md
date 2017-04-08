@@ -25,6 +25,8 @@ Lazy already integrated in nodejs and ruby.
 
 ## NodeJS
 
+> Native *
+
 ```bash
 # Or npm install --save lazy.ai
 $> yarn add lazy.ai
@@ -192,11 +194,9 @@ GET /responses/:category
 
 <br>
 
-## Contributors
 
->Special thanks for ruby client:
-<a href="https://github.com/Yengas">Yiğitcan Uçum @Yengas </a>
+## License & Contributors
 
-## License
+[Special thanks for ruby client:](https://github.com/Yengas)
 
 MIT © [cagataycali](https://cagatay.me)
