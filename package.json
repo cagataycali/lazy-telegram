@@ -9,7 +9,7 @@
     "node": "6.x"
   },
   "dependencies": {
-    "lazy.ai": "^1.0.8",
+    "lazy.ai": "^1.1.0",
     "node-telegram-bot-api": "^0.27.0",
     "underscore": "^1.8.3"
   },
