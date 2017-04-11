@@ -19,7 +19,7 @@ function matcher(matchs, pattern, message, callback, error) {
   }
 }
 
-bot.on('message', async (msg) => {
+bot.on('message', (msg) => {
 
   if (msg.entities && msg.entities[0].type === "bot_command") {
 
